@@ -1,5 +1,5 @@
 
-# Traffic Sign Assistant for Visually Impaired
+# Traffic Sign Assistant for Visually Impaired Pedestrain
 
 ### Abstract
 
